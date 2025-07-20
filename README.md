@@ -1,4 +1,4 @@
-# caddy
+# caddy - (Vibe Coding)
 
 # Golf Swing Analyzer - Development Roadmap
 
